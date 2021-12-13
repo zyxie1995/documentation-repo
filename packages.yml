@@ -1,0 +1,4 @@
+packages:
+  - git: "https://github.com/zyxie1995/dbt-tutorial.git"
+
+  - git: "https://github.com/zyxie1995/toto-shop.git"
